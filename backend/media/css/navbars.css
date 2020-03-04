@@ -1,0 +1,27 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    background: rgb(115, 196, 243);
+    z-index: 10;
+}
+
+    #navbar a {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        float: left;
+        display: block;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        #navbar a:hover {
+            background: rgb(212, 133, 208);
+        }
+
+    #navbar .activeNav {
+        background: rgb(163, 163, 163);
+    }

@@ -1,0 +1,47 @@
+#bakgrundHome {
+    position: fixed;
+    background: url(../pictures/2077.jpg) no-repeat;
+    background-size: cover;
+    background-color: #eeeeee;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow-x: hidden;
+}
+
+#bakgrundPengar {
+    position: fixed;
+    background: url(moneyBakgrund.jpg);
+    background-size: cover;
+    background-color: #eeeeee;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow-x: hidden;
+}
+
+#bakgrundP2 {
+    position: fixed;
+    background: url(2077.jpg);
+    background-size: cover;
+    background-color: #eeeeee;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow-x: hidden;
+}
+
+#bakgrundP3 {
+    position: fixed;
+    background: url(backgroundtext.jpg);
+    background-size: cover;
+    background-color: #eeeeee;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow-x: hidden;
+}
