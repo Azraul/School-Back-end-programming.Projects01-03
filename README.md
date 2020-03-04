@@ -8,7 +8,7 @@ Project 01 is mostly an experiment whereas Project 02 is the beginning to a foru
 None. Database unavailable and host locked behind internal network @Arcada.
 
 ## Preview
-![image of program running](backen/media/site.gif)
+![image of program running](backend/media/site.gif)
 
 ## Contribution
 School project, won't be updated but constructive criticism is welcome.
