@@ -5,10 +5,19 @@ Perhaps an unpopular opinion but PHP was a delight to work with and I really fel
 Project 01 is mostly an experiment whereas Project 02 is the beginning to a forum that is finalized in Project 03.
 
 ## Installation
-None. Database unavailable and host locked behind internal network @Arcada.
+None. :trollface:
+Database unavailable and host locked behind internal network @Arcada.
 
 ## Preview
 ![image of program running](backend/media/site.gif)
+
+## Grades
+###### Project 01
+98/100
+###### Project 02
+98/100
+###### Project 03
+103/100 :+1:
 
 ## Contribution
 School project, won't be updated but constructive criticism is welcome.
